@@ -1,169 +1,162 @@
-# Carolyn Stransky
+# Jonathan Vercoutre
 
-_Software engineer and journalist based in Berlin 🇩🇪_ <br>
+_Senior Site Reliability Engineer based in Lille, France 🇫🇷_ <br>
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[PDF](https://github.com/rawool/Awesome-CV/releases/download/latest/cv.pdf) / [Email](mailto:jonathan@vercout.re) / [Website](https://jonathan.vercout.re/) / [LinkedIn](https://linkedin.com/in/raw00l) / [Phone](tel:+33759509809)
 
-## 👩🏼‍💻 Engineering Experience
+## 👨‍💻 Engineering Experience
 
-**Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Founding member of BRYTER's design system team and continued to provide support and extend the component library
-  - Wrote code in multiple architecture layers, including the application core and integrations with external services
-  - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
+**Senior Site Reliability Engineer** @ [Shine](https://www.shine.fr/) _(November 2023 - Present)_ <br>
+Established the infrastructure team to manage Shine's entire technology platform.
+  - Manage Shine's complete infrastructure in GCP including containers, instances, queues, databases, and load-balancers
+  - Spearheaded the transition from manual infrastructure to Terraform with self-service repositories and tailored modules
+  - Automated processes via GitHub Actions for streamlined deployment and management
+  - Set up comprehensive monitoring with Grafana (in Terraform) for logs, metrics, and dashboards
+  - **_Technologies used:_** Terraform, GCP, ElasticSearch, Grafana
 <br><br>
 
-**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
-[Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
-  - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
-  - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
-  - Wrote [internal documentation](https://github.com/graphql/graphql.github.io/blob/source/CONTRIBUTING.md) to improve the contributing experience
-  - **_Technologies used:_** CSS, React, TypeScript, Gatsby, GraphQL.
+**Site Reliability Engineer** @ [Alma](https://alma.fr/) _(June 2021 - September 2023)_ <br>
+Founding member of the Platform team supporting a growing organization of 12 team members.
+  - Managed Alma's entire infrastructure on GCP, including containers (K8S and serverless), queues, databases, and load-balancers
+  - Led the transition from Python scripts to Terraform for infrastructure management
+  - Implemented security and compliance through hardening, isolation, and mTLS setups with internal CAs
+  - Configured CloudFlare services (tunnels, rules, workers, access, LB) for enhanced security
+  - Developed Python scripts and automated processes via GitHub Actions
+  - Set up monitoring with Datadog (in Terraform) for logs, metrics, and dashboards
+  - Served on-call for Level 2 support
+  - **_Technologies used:_** Terraform, GCP, CloudFlare, Datadog, Python
 <br><br>
 
-**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
-Early-stage startup focused on automated API testing and NLP.
-  - Built the [website](https://meeshkan.com/) and the initial web app that visualized the test reports
-  - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
-  - Ownership of Meeshkan's documentation and technical blog
-  - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
-  - **_Selected open-source work:_**
-    - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
-    - [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
-    - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
-    <br><br>
-
-**Frontend Engineer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
-Professional chauffeur service available in over 300 cities worldwide.
-  - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
-  - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
-  - Extended and maintained a company-wide design system
-  - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Mocha, Cypress, TravisCI.
-  <br><br>
-
-**Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
-API-first infrastructure to create, manage and distribute content.
-  - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
-  - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
-  - Assistance with information architecture and UX writing for the web app
-  - **_Technologies used:_** React, Gatsby, Node.js, GraphQL, REST, Contentful.
-  - **_Selected writing:_**
-    - [JavaScript SDK guide](https://www.contentful.com/developers/docs/javascript/tutorials/using-js-cda-sdk/)
-    - [Node.js example app and courses](https://the-example-app-nodejs.contentful.com/courses)
-    - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
-    <br><br>
-    
-## 🗞 Journalism Experience
-
-_This section only accounts for work done post-career change._
+**System Administrator** @ [Entr'ouvert](https://www.entrouvert.com/) _(March 2021 - May 2021)_ <br>
+Managed core infrastructure services for open-source software company.
+  - Oversaw web, mail, and DNS hosting services
+  - Ensured security and compliance standards
+  - Handled automation and scripting tasks to improve operational efficiency
+  - Provided monitoring and on-call support for critical systems
 <br><br>
 
-**Acting Editor** @ [Future of Sex](https://futureofsex.net/author/carolyn/) _(Apr 2022 - Present)_ <br>
-Online publication that provides insights into how emerging technologies are expanding human sexuality.
-  - Oversee a team of writers and maintain the editorial focus for futurist publication attracting more than 50,000 monthly visitors and 90,000 monthly page views
-  - Develop article ideas for writers and edit work for readability, grammar, and accuracy
-  - Analyze website traffic and social media analytics to improve online reach and ensure optimal SEO performance
-
-_Previously worked as a Reporter from Dec 2020 - Apr 2022_ <br>
-  - Researched and wrote [original stories on sex and technology](https://futureofsex.net/author/carolyn/) for sophisticated online audience
-  - **_Selected articles:_**
-    - [You Can Now Buy Sex Toys from Vending Machines at Berlin’s New Airport](https://futureofsex.net/sex-tech/berlins-new-airport-debuts-sex-toys-vending-machines/)
-    - [Does Having an IUD Make You a Biohacker or a Cyborg?](https://futureofsex.net/augmentation/does-having-an-iud-make-you-a-biohacker-or-a-cyborg/)
-    - [Tech Conference Organizers: Sex Tech Breaks Taboos, Not Codes of Conduct](https://futureofsex.net/sex-tech/tech-conference-organizers-sex-tech-breaks-taboos-not-codes-of-conduct/)
+**Devops Engineer (Data)** @ [PeopleDoc / UKG](https://www.ukg.com/) _(October 2019 - March 2021)_ <br>
+Early member of a three-person team developing the company's first internal data warehouse.
+  - Managed BI servers for batch processing, Looker data exploration, and Airflow platforms
+  - Served as technical point of contact for infrastructure-related queries from BI analysts and Data engineers
+  - Developed scripts in Python, created Debian packages, and handled Python packaging
+  - Automated tasks using Ansible and Jenkins
+  - Implemented monitoring solutions using Prometheus and Datadog
+  - **_Technologies used:_** Ansible, Airflow, Python, Prometheus, Datadog
 <br><br>
 
-**Freelance Writer** _(Mar 2020 - Present)_ <br>
-Regular contributor to [Sex for Every Body](https://sexforeverybody.com/author/carolyn/). Other articles in [Autostraddle](https://www.autostraddle.com/sharing-is-caring-or-did-you-skip-that-day-in-school__trashed/), [Silicon Allee](https://news.siliconallee.com/2021/07/26/the-art-of-pitching-a-sex-tech-startup/), [Curve Magazine](https://www.curvemag.com/us-home/beyond-the-binary-how-software-engineer-sara-vieira-founded-a-global-community-of-queer-coders/), and [elsewhere](https://workwithcarolyn.com/words).
+**Site Reliability Engineer** @ [PeopleDoc](https://www.people-doc.com/) _(January 2018 - October 2019)_ <br>
+Member of a five-person team responsible for maintaining PeopleDoc's infrastructure.
+  - Managed application infrastructure servers hosted on Openstack clusters
+  - Oversaw public and internal load-balancers and core services
+  - Automated processes using Ansible and Openstack Heat
+  - Enhanced security and hardened services
+  - Implemented monitoring solutions with Prometheus
+  - **_Technologies used:_** Ansible, Openstack, Prometheus
 <br><br>
 
-**Contributing Editor** @ [FLURT Magazine](https://www.facebook.com/flurtmagazine) _(Mar 2016 - Sep 2018)_ <br>
-Magazine for socially conscious young people who want to create their own media.
-  - Wrote over 20 articles for print and web focused on technology and activism
-  - Edited and curated online-exclusive content
-  - **_Selected articles:_**
-    - [The War on Sex](https://workwithcarolyn.com/words/war-on-sex)
-    - [What to Do if You Get Doxed](https://workwithcarolyn.com/words/what-to-do-if-you-get-doxed)
-    - [How Marijuana Can Improve Your Health](https://workwithcarolyn.com/words/how-marijuana-can-improve-your-health)
-    <br><br>
-
-## 📌 Volunteering
-
-**EU Conference Team Member** @ [Write the Docs](https://www.writethedocs.org/conf/) _(Jul 2019 - Present)_<br>
-Technology conference focused on documentation systems, tech writing theory, and information delivery.
-  - [Emceed](https://workwithcarolyn.com/speaking/emcee) the last in-person event in 2019 and the first virtual event in 2020 
-  - Introduced speakers and faciliated Q&A sessions
-  <br><br>
-
-**Workshop Lead** @ [New Devs on the Block](https://newdevs.org/) _(Jul 2019 - Dec 2021)_ <br>
-Free, two-day workshops to help people build their first website.
-  - Creating a curriculum that covers HTML, CSS and a bit of JavaScript 
-  - Preparing supplemental presentations on topics like accessibility and animations
-  - Events in Nürnberg and Vienna, now post-poned due to the COVID-19 outbreak 
-  <br><br>
-
-**Web Development Instructor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Feb 2017 - Aug 2021)_<br>
-Non-profit digital school for tech-interested newcomers applying for asylum in Germany.
-  - Built and continuously developed the course curriculum with a team of 4-8 other instructors
-  - Led classes to improve student comprehension of React, HTML, CSS and general web design principles
-  - Mentored students through presentations and job search
-  - _Note: Took a break from teaching in 2019_
-  <br><br>
-
-**Co-Organizer** @ [QueerJS](https://queerjs.com/) _(Jun 2019 - Dec 2021)_<br>
-🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
-  - Selected speakers and scheduling events
-  - Fostered an inclusive community and enforced the code of conduct
-  - 🐻 _Previously co-organized [BerlinJS](https://berlinjs.org/) from May 2018 - May 2020_
-  <br><br>
-  
-
-## 🎤 Public Speaking
-    
-### Recent Appearances
-
-- **JSHeroes** live in Cluj 🇷🇴 _(Jun 9, 2022)_
-<br>[Humanizing Your Documentation](https://www.youtube.com/watch?v=yE7eOoXTZtM)<br>
-
-- **single-threaded Podcast** _(released on Mar 31, 2021)_
-<br>[Crying at work](https://anchor.fm/single-threaded/episodes/Carolyn-Stransky-on-Crying-at-Work-etu7hj)<br>
-<br>
-
-**Want me to speak at your event?**
-<br>💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
-<br><br>
-  
-## 🏆 Accomplishments
-
-**Won First Place** @ [Rainbows End Sex Tech Hackathon](https://hack.touchyfeely.tech/) _(May 2021)_ <br>
-Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband that records your hand movement and generates a live 3D-model. 
-
-**Top Author Recognition** @ [DEV](https://dev.to/) _(2019 - 2020)_ <br>
-Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in the weekly Top 7:
-  - [How to remove condescending language from documentation](https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p)
-  - [Onboarding a junior developer to your team? Here's 12 tips.](https://dev.to/carolstran/onboarding-a-junior-developer-to-your-team-here-s-12-tips-4g3a)
+**Devops Engineer** @ [OVH](https://www.ovhcloud.com/) _(June 2015 - January 2018)_ <br>
+Part of a five-person team transforming OVH's core infrastructure into a stable, uniform platform.
+  - Managed 1,000+ servers for the entire internal information systems ecosystem
+  - Maintained PCIDSS-certified systems at the highest compliance level
+  - Migrated legacy services to standardized, hardened platforms
+  - Implemented automation and configuration management using Puppet
+  - Managed corporate bastion hosts and security infrastructure
+  - Provided Level 2/3 on-call support for mission-critical services
+  - **_Technologies used:_** Puppet, Shinken
 <br><br>
 
-**Won Best Project** @ [Geek Girl Carrots Berlin Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
-Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
+**System Administrator** @ [ISVTEC](https://www.isvtec.com/) _(September 2012 - May 2015)_ <br>
+Managed services across approximately 300 customer servers.
+  - Performed seamless mail and website migrations with zero downtime
+  - Migrated services to more scalable and fault-tolerant systems
+  - Provided Level 1 on-call support to ensure continuous service availability
+<br><br>
+
+**System Administrator** @ ICE Development _(September 2011 - September 2012)_ <br>
+Managed core infrastructure services for client environments.
+  - Oversaw web, mail, and DNS hosting services
+  - Managed firewalls and network infrastructure
+  - Handled website and mail migrations
+  - Ran datacenter operations
+  - Ensured security across all systems
+  - Provided helpdesk and Level 1 on-call support
+<br><br>
+
+**IT Consultant** @ [Astek](https://www.astek.fr/) _(February 2011 - September 2011)_ <br>
+Specialized in Unix systems management and troubleshooting.
+  - Maintained, repaired, and operated several Unix systems
+  - Served as the Unix team specialist
+<br><br>
+
+**System and Database Administrator** @ [Acteos](https://www.acteos.com/) _(April 2007 - January 2011)_ <br>
+Managed internal infrastructure with a focus on Oracle environments.
+  - Managed Oracle Database and Oracle Application Server across 70 servers
+  - Performed installations and migrations of Acteos products on-premise for clients
+  - Provided Level 3 support for complex technical issues
+<br><br>
+
+## 🛠️ Technical Skills
+
+### I work with it every day
+- **Cloud - GCP**: Managing complete infrastructure including containers, databases, load balancers, and serverless functions
+- **Infra-as-code (Terraform)**: Creating tailored modules and self-service repositories for complete infrastructure automation
+- **Web stack and architectures**: Designing scalable web architectures with load balancers, CDNs, and microservices patterns
+- **Networking & Firewalls**: Configuring complex network topologies, security groups, and firewall rules for enterprise environments
+
+### I used it intensively in the past
+- **Core Internet Services (DNS, SMTP, HTTP)**: Deep expertise in mail servers, DNS management, HTTP caching, and key-value stores at scale
+- **Cloudflare Zero Trust**: Implementing secure access solutions with tunnels, access policies, and identity management
+- **Cloudflare Application Security**: Configuring WAF rules, DDoS protection, bot management, and performance optimization
+- **Ansible/Puppet**: Automating configuration management and deployment across hundreds of servers
+
+### I've got some experience with it
+- **Python**: Writing automation scripts, data processing tools, and creating Debian packages
+- **Cloud - AWS**: Basic experience with EC2, S3, and core AWS services for cloud migrations
+- **Kubernetes**: Container orchestration, deployment management, and cluster operations
+- **Monitoring (Grafana, Datadog)**: Setting up dashboards, alerts, log aggregation, and metrics collection
+
+### I used it basically in the past
+- **Openstack**: Private cloud management and Heat orchestration for infrastructure provisioning
+- **Oracle Database**: Database administration, performance tuning, and Oracle Application Server management
+- **Shinken/Prometheus**: Legacy monitoring systems setup and maintenance for large-scale infrastructure
+- **Jenkins**: CI/CD pipeline automation and build process management
+
+## 🧩 Hobbies
+
+**Video Games** <br>
+I grew up with a Master System joypad and never stopped playing games. My last crush is Crusader Kings III (250h+).
+• **Day Of Defeat** • **Crusader Kings III** • **PUBG**
+
+**Self-Hosting** <br>
+Since my teenage years, I've been self-hosting my own server at home to host my basic services and have a place to try new things.
+
+**Running** <br>
+I learned to run properly a few years ago and pushed my own limits in this sport. I since maintain some running habits.
+• **10K** • **Half Marathon**
+
+**Music** <br>
+I started to learn music a few months ago, trying to discover a new universe.
+• **Piano** • **Computer Generated Music**
 <br><br>
 
 ## 💬 Languages
 
-🇺🇸 **English**: Native <br>
-🇩🇪 **German**: B1
+🇫🇷 **French**: Native <br>
+🇬🇧 **English**: Professional <br>
+🇪🇸 **Spanish**: Beginner
 <br><br>
 
-## 👩🏼‍🎓 Education
+## 🎓 Education
 
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
+**BSc in Computer Science (DA2I)** <br>
+[Université des Sciences et Technologie - Lille 1](https://www.univ-lille.fr/) - Lille, France _(September 2006 - July 2007)_ <br>
+Year focused on developing and managing network services, including Java (J2EE, servlets, JSP) and Unix services (DNS, HTTP, RDBMS, security).
 
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
+**DUT (two years degree) in Computer Science** <br>
+[Université du Littoral Cote d'Opale](https://www.univ-littoral.fr/) - Calais, France _(September 2004 - July 2006)_ <br>
+Program covering programming languages (Ada, C, Java), databases (PostgreSQL, Oracle), networks (TCP/IP, X25), and systems (GNU/Linux).
 
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
-
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
+**Baccalauréat S** <br>
+Lycée Notre Dame de Sion - Saint-Omer, France _(September 2000 - July 2004)_ <br>
+French national academic qualification focusing on physical sciences, mathematics, and biology.
