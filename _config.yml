@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 title: 💻⚙️🛡️🔒
 description: Jonathan Vercoutre's CV
 logo: /images/profile.jpg
+
+plugins:
+  - jekyll-sitemap
