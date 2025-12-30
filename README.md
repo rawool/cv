@@ -6,7 +6,9 @@ _Senior Site Reliability Engineer based in Lille, France 🇫🇷_ <br>
 
 ## 👨‍💻 Engineering Experience
 
-**Senior Site Reliability Engineer** @ [Shine](https://www.shine.fr/) _(November 2023 - Present)_ <br>
+**Senior Infrastructure Engineer** @ [Dataiku](https://www.dataiku.com/) _(November 2025 - current)_ <br>
+
+**Senior Site Reliability Engineer** @ [Shine](https://www.shine.fr/) _(November 2023 - November 2025)_ <br>
 Established the infrastructure team to manage Shine's entire technology platform.
   - Manage Shine's complete infrastructure in GCP including containers, instances, queues, databases, and load-balancers
   - Spearheaded the transition from manual infrastructure to Terraform with self-service repositories and tailored modules
