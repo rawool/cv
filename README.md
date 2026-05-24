@@ -6,6 +6,8 @@ _Senior Site Reliability Engineer based in Lille, France 🇫🇷_ <br>
 
 ## 👨‍💻 Engineering Experience
 
+**Senior Infrastructure Engineer** @ [Bunny](https://www.bunny.net/) _(May 2026 - current)_ <br>
+
 **Senior Infrastructure Engineer** @ [Dataiku](https://www.dataiku.com/) _(November 2025 - current)_ <br>
 
 **Senior Site Reliability Engineer** @ [Shine](https://www.shine.fr/) _(November 2023 - November 2025)_ <br>
