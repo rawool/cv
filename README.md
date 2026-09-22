@@ -5,6 +5,10 @@
 **Senior Infrastructure Engineer** @ [Bunny](https://www.bunny.net/) _(May 2026 - current)_ <br>
 
 **Senior Infrastructure Engineer** @ [Dataiku](https://www.dataiku.com/) _(November 2025 - May 2026)_ <br>
+Member of the team responsible for hosting and maintaining internal instances of Dataiku's products.
+  - Built a multi-cloud solution running Ansible playbooks locally on instances at boot and on a recurring schedule, for self-configuration and self drift detection/correction
+  - **_Technologies used:_** Terraform, AWS, Azure, GCP, Ansible
+<br><br>
 
 **Senior Site Reliability Engineer** @ [Shine](https://www.shine.fr/) _(November 2023 - November 2025)_ <br>
 Established the infrastructure team to manage Shine's entire technology platform.
