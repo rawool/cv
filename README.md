@@ -1,7 +1,3 @@
-# Jonathan Vercoutre
-
-_Senior Site Reliability Engineer based in Lille, France 🇫🇷_ <br>
-
 [PDF](https://github.com/rawool/Awesome-CV/releases/download/latest/cv.pdf) / [Email](mailto:jonathan@vercout.re) / [Website](https://jonathan.vercout.re/) / [LinkedIn](https://linkedin.com/in/jvercoutre) / [Phone](tel:+33759509809)
 
 ## 👨‍💻 Engineering Experience
