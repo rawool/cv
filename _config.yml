@@ -1,7 +1,9 @@
 theme: jekyll-theme-minimal
-title: 💻⚙️🛡️🔒
+title: Jonathan Vercoutre - Senior Site Reliability Engineer
 description: Jonathan Vercoutre's CV
 logo: /images/profile.jpg
+url: https://jonathan.vercout.re
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
